@@ -1,0 +1,30 @@
+.konvajs-content{
+	margin-top: 5%;
+	background-image: url("Resources/fondo.png");
+}
+
+.row-game{
+	background-color: rgba(0,0,0,0.89);
+	height: 640px;
+
+}
+
+.information{
+	display: inline-flex;;
+	color: #fff;
+	text-align: center;
+}
+
+.img-bar{
+	height: 30px;
+}
+
+.exit-button{
+	float: right;
+	border-radius: 10%;
+    background-color: #FF0000;
+    border: none;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+}
